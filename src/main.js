@@ -47,3 +47,4 @@ loadItems()
   setEventListeners(items);
 })
 .catch(console.log)
+ 
